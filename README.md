@@ -1,2 +1,2 @@
-# InventoryUpload
+# Inventory Upload
 Inventory upload documentation
